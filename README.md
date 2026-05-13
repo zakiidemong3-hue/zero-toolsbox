@@ -1,0 +1,2 @@
+# zero-toolsbox
+Script termux
